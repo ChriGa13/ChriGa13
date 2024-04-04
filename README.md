@@ -35,7 +35,7 @@ class Program
 
 # Contact
 
-> 📧 [chriga.dev@outlook.com](mailto:chriga.dev@outlook.com) or 
+> 📧 [chriga.development@proton.me](mailto:chriga.development@proton.me) or 
 📧 [christoph.gattermayr@softaware.at](mailto:christoph.gattermayr@softaware.at)
 
 
